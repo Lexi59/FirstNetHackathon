@@ -1,0 +1,188 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizPickerView",
+    "DNDConfig": null,
+    "__inst": {
+        "_selectedValues": {},
+        "settings": {
+            "ariaDesc": "Select a value",
+            "cancelText": "Cancel",
+            "delay": 300,
+            "disabled": false,
+            "display": "inline",
+            "fixedWidth": [
+                100
+            ],
+            "headerText": "{value}",
+            "height": 40,
+            "id": "ProfileForm_PickerView0h83cd1a743f342",
+            "lang": "en-US",
+            "layout": "fixed",
+            "minWidth": 0,
+            "mode": "scroller",
+            "preset": "",
+            "readonly": false,
+            "rows": 3,
+            "scrollLock": true,
+            "setText": "Set",
+            "showLabel": false,
+            "showOnFocus": true,
+            "showOnTap": true,
+            "speedUnit": 0.0012,
+            "tap": true,
+            "theme": "ios",
+            "timeUnit": 0.1,
+            "wheels": [
+                [
+                    {
+                        "keys": [
+                            "m1",
+                            "m2",
+                            "m3"
+                        ],
+                        "values": [
+                            "Sioux Falls Fire &amp; Rescue",
+                            "SD Highway Patrol",
+                            "PatientCare EMS of Sioux Falls"
+                        ],
+                        "width": 100
+                    }
+                ]
+            ],
+            "width": 70
+        },
+        "temp": [
+            "m1"
+        ],
+        "val": "m1",
+        "values": [
+            "m1"
+        ]
+    },
+    "__parentReadjusting__": false,
+    "__wheels": [
+        [
+            {
+                "keys": [
+                    "m1",
+                    "m2",
+                    "m3"
+                ],
+                "values": [
+                    "Sioux Falls Fire &amp; Rescue",
+                    "SD Highway Patrol",
+                    "PatientCare EMS of Sioux Falls"
+                ],
+                "width": 100
+            }
+        ]
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "37dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "122dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7280900eac84504804471640c4c4e41",
+    "_top_": {
+        "type": "string",
+        "value": "340dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "62.33%"
+    },
+    "android": {
+        "psp": {
+            "viewType": 0
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "render": false
+    },
+    "id": "PickerView0h83cd1a743f342",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "i66c6277183b491698b8239176e7eea7",
+    "masterdata": [
+        [
+            [
+                "m1",
+                "Sioux Falls Fire & Rescue"
+            ],
+            [
+                "m2",
+                "SD Highway Patrol"
+            ],
+            [
+                "m3",
+                "PatientCare EMS of Sioux Falls"
+            ],
+            100,
+            "monthcomp"
+        ]
+    ],
+    "masterdatamap": null,
+    "name": "kony.ui.PickerView",
+    "parent": "ProfileForm",
+    "pf": "ProfileForm",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "selectedkey": null,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": [
+        "Sioux Falls Fire &amp; Rescue"
+    ],
+    "size": 18,
+    "spaan": {
+        "render": false
+    },
+    "spaandroidtablet": {
+        "render": false
+    },
+    "spabb": {
+        "render": false
+    },
+    "spaip": {
+        "render": false
+    },
+    "spaipad": {
+        "render": false
+    },
+    "spawindowstablet": {
+        "render": false
+    },
+    "spawinphone8": {
+        "render": false
+    },
+    "viewtype": 0,
+    "wType": "PickerView",
+    "watchos": {
+        "render": false
+    },
+    "windows8": {
+        "render": false
+    },
+    "zindex": 1
+}

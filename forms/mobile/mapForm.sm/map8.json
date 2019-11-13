@@ -1,0 +1,141 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_android_": {},
+    "_androidwearos_": {},
+    "_children_": [],
+    "_desktopweb_": {},
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_ipad_": {},
+    "_iphone_": {},
+    "_kiosk_": {},
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sbb9da4ba1804501b2d72eab080dd480",
+    "_spa_": {},
+    "_spaan_": {},
+    "_spaandroidtablet_": {},
+    "_spabb_": {},
+    "_spaip_": {},
+    "_spaipad_": {},
+    "_spamobile_": {},
+    "_spatablet_": {},
+    "_spawindowstablet_": {},
+    "_spawinphone8_": {},
+    "_tabrcandroid_": {},
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_vizProps_": {
+        "hidewidgethierarchy": false
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_windows10_": {},
+    "_windows8_": {},
+    "_winphone10_": {},
+    "_winphone8_": {},
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "clipbounds": true,
+    "containerweight": 0,
+    "dataDiffs": {
+        "map8": {
+            "__events__": {},
+            "__info__": {
+                "isRoot": true,
+                "kuid": "ec0338ce62a641af8fde52c0e2643a11",
+                "srcKUID": "c43338d957ec4b5e8a46b6fdbb42574f",
+                "wType": "FlexContainer"
+            },
+            "bottom": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "centerX": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "centerY": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "left": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            },
+            "right": {
+                "Default": {
+                    "type": "string",
+                    "value": ""
+                }
+            },
+            "top": {
+                "Default": {
+                    "type": "string",
+                    "value": "0dp"
+                }
+            }
+        },
+        "mapLocations": {
+            "__events__": {},
+            "__info__": {
+                "kuid": "f0cbb9d1c3c842abbfed4b9df4d4d7e3",
+                "srcKUID": "c2f1d82acf204ec19c5d4cbe01388cbf",
+                "wType": "Map"
+            },
+            "height": {
+                "Default": {
+                    "type": "string",
+                    "value": "72.28%"
+                }
+            }
+        }
+    },
+    "enablescrolling": true,
+    "id": "map8",
+    "info": null,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "ec0338ce62a641af8fde52c0e2643a11",
+    "layouttype": 2,
+    "masterType": 0,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "mapForm",
+    "pf": "mapForm",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "sourceUserWidget": "c43338d957ec4b5e8a46b6fdbb42574f",
+    "wType": "UserWidgetInstance"
+}

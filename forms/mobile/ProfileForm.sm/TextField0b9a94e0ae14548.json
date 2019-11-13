@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "102dp"
+        "value": "105dp"
     },
     "_margin_": [
         0,
@@ -22,7 +22,7 @@
         0,
         0
     ],
-    "_placeholder_": "Placeholder",
+    "_placeholder_": "abc@123.com",
     "_skin_": "s95c9692f34f49a082cb8e6427983b12",
     "_text_": "",
     "_top_": {

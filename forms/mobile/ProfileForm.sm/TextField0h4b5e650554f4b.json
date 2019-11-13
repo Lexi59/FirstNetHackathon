@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "86dp"
+        "value": "96dp"
     },
     "_margin_": [
         0,
@@ -22,12 +22,12 @@
         0,
         0
     ],
-    "_placeholder_": "Placeholder",
+    "_placeholder_": "age",
     "_skin_": "sff5aa491a2543bca532a714827f2825",
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "200dp"
+        "value": "187dp"
     },
     "_width_": {
         "type": "string",

@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "24dp"
+        "value": "33dp"
     },
     "_margin_": [
         1,
@@ -26,7 +26,7 @@
     "_text_": "Age",
     "_top_": {
         "type": "string",
-        "value": "202dp"
+        "value": "187dp"
     },
     "_width_": {
         "type": "ref",

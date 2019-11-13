@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9ee1647ce9b405a92f471031dd21ee4",
+    "_text_": "Create Profile",
+    "_top_": {
+        "type": "string",
+        "value": "640dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s54f1af54fa1423890fa0ec1d485bd54",
+    "id": "Button0a565caa34c0646",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "j9c154dac9b84f6c99e7df7b70abef34",
+    "name": "kony.ui.Button",
+    "onclick": "AS_Button_a21e91cb6ec941a5a6adcd90042e80dc",
+    "parent": "ProfileForm",
+    "pf": "ProfileForm",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

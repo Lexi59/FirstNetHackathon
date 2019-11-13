@@ -7,5 +7,11 @@ define({
         var self = this;
         var ntf = new kony.mvc.Navigation("ProfileForm");
         ntf.navigate();
+    },
+    /** onClick defined for Button0c7863919372f40 **/
+    AS_Button_d0cebe97bad54cb78bb84a1754caa1d9: function AS_Button_d0cebe97bad54cb78bb84a1754caa1d9(eventobject) {
+        var self = this;
+        var ntf = new kony.mvc.Navigation("LoginForm");
+        ntf.navigate();
     }
 });

@@ -1,0 +1,31 @@
+{
+    "AS_Button_a21e91cb6ec941a5a6adcd90042e80dc": {
+        "id": "AS_Button_a21e91cb6ec941a5a6adcd90042e80dc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "ProfileForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "jb153df90bae472cabc796b419da0c01"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___beadde9d911f4256840de62f457bba3c",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "LoginForm",
+            "formKUID": "i3ee7349b4fc45f7bef87743ddf5c9dd",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"Button0a565caa34c0646\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

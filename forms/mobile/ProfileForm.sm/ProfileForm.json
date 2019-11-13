@@ -42,7 +42,12 @@
         "TextField0b9a94e0ae14548",
         "Label0e99282569ec84e",
         "TextField0g1bab5e7d66d44",
-        "PickerView0h83cd1a743f342"
+        "PickerView0h83cd1a743f342",
+        "Label0c4540153344b40",
+        "Label0d2fc26162da645",
+        "Button0a565caa34c0646",
+        "TextField0aa62b18403d549",
+        "TextField0ed34721b60364d"
     ],
     "containerweight": 100,
     "controllerInfo": {

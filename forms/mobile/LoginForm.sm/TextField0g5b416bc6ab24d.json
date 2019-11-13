@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "139dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "password",
+    "_skin_": "s5b4fd0ee72d4a1dae731c83708bd57e",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "301dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "225dp"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "saf6c953f66e4147a7b59e2dc24a070b",
+    "id": "TextField0g5b416bc6ab24d",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "d083012405694903a0051627b44276ba",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "LoginForm",
+    "pf": "LoginForm",
+    "placeholderskin": "s4d67aba4c754ca0885a3bdfdc74db00",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

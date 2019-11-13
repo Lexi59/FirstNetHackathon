@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "167dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "confirm password",
+    "_skin_": "s2707359a36b4acca34475bc7b66898b",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "572dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "saf6c953f66e4147a7b59e2dc24a070b",
+    "id": "TextField0ed34721b60364d",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "ie860d37ada94afcba33530b41849874",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "ProfileForm",
+    "pf": "ProfileForm",
+    "placeholderskin": "s4d67aba4c754ca0885a3bdfdc74db00",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "securetextentry": false,
+    "textinputmode": "A",
+    "tooltip": "",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

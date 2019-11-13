@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "21dp"
+        "value": "19dp"
     },
     "_margin_": [
         1,
@@ -26,7 +26,7 @@
     "_text_": "Gender",
     "_top_": {
         "type": "string",
-        "value": "270dp"
+        "value": "257dp"
     },
     "_width_": {
         "type": "ref",

@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "113dp"
+        "value": "105dp"
     },
     "_margin_": [
         0,
@@ -22,7 +22,7 @@
         0,
         0
     ],
-    "_placeholder_": "Placeholder",
+    "_placeholder_": "phone number",
     "_skin_": "s3050d479e0f496ea8b9a6e5c398e55e",
     "_text_": "",
     "_top_": {
@@ -50,7 +50,7 @@
     "keyboardstyle": "A",
     "keyboardtype": "A",
     "kuid": "g3534d9444064b1bac7e1011258fb656",
-    "mode": "A",
+    "mode": "N",
     "name": "kony.ui.TextBox2",
     "parent": "ProfileForm",
     "pf": "ProfileForm",

@@ -43,6 +43,7 @@
     "isvisible": true,
     "kuid": "h7162526747c42328e2ad95ddaba47bc",
     "name": "kony.ui.Button",
+    "onclick": "AS_Button_d0cebe97bad54cb78bb84a1754caa1d9",
     "parent": "Home",
     "pf": "Home",
     "retaincontentalignment": false,

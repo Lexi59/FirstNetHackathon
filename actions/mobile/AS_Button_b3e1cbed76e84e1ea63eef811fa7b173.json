@@ -1,0 +1,31 @@
+{
+    "AS_Button_b3e1cbed76e84e1ea63eef811fa7b173": {
+        "id": "AS_Button_b3e1cbed76e84e1ea63eef811fa7b173",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "mapForm",
+            "type": "forms",
+            "platform": "",
+            "KUID": "df7d893cd0f24705b2d967b153df3831"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___g4c8129489e04a7eb504e82a40fe215a",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "MessageForm",
+            "formKUID": "fe70035445a24543984561b5b10d483d",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"ButtonRoundDoubleRight\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

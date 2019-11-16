@@ -42,6 +42,7 @@
     "isvisible": true,
     "kuid": "b68f9f6267f7473fa97579fd52a64056",
     "name": "kony.ui.Button",
+    "onclick": "AS_Button_d3de93570a424fdbbec60d3f855d393e",
     "parent": "ContainerButtonLeft",
     "pf": "mapForm",
     "wType": "Button",

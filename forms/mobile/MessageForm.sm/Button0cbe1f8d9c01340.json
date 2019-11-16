@@ -2,13 +2,13 @@
     "@class": "com.kony.gen.viz.model.component.KVizButton",
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
+    "_height_": {
         "type": "string",
-        "value": "5dp"
+        "value": "50dp"
     },
     "_left_": {
         "type": "string",
-        "value": "5dp"
+        "value": "33dp"
     },
     "_margin_": [
         6,
@@ -22,29 +22,31 @@
         0,
         0
     ],
-    "_right_": {
-        "type": "string",
-        "value": "10dp"
-    },
-    "_skin_": "sbd53e23f0984e3499a49b5f8b864617",
-    "_text_": "Send Message",
+    "_skin_": "s9ee1647ce9b405a92f471031dd21ee4",
+    "_text_": "Send to Agency",
     "_top_": {
         "type": "string",
-        "value": "5dp"
+        "value": "355dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
-    "focusskin": "s04c0a1aa8dd4fbf93118a0c6e053375",
-    "id": "ButtonRoundDoubleRight",
+    "focusskin": "s54f1af54fa1423890fa0ec1d485bd54",
+    "id": "Button0cbe1f8d9c01340",
     "info": null,
+    "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b460fa4920934c0cb22356ee7eb03c4b",
+    "kuid": "jbf75e06af864a968c70b519de97bb41",
     "name": "kony.ui.Button",
-    "onclick": "AS_Button_b3e1cbed76e84e1ea63eef811fa7b173",
-    "parent": "ContainerButtonRight",
-    "pf": "mapForm",
+    "parent": "MessageForm",
+    "pf": "MessageForm",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
     "wType": "Button",
     "zindex": 1
 }
